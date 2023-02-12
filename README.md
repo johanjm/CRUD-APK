@@ -1,5 +1,12 @@
 # CRUD-APK
 
+# Integrantes
+
+- Daniel Flores
+- Elena Peréz
+- Johan Quinatoa
+
+
 # Link del Video de Funcionamiento
 https://www.youtube.com/watch?v=WyqQU4D_vBs&ab_channel=JohanQuinatoa
 
